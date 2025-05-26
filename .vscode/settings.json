@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "mysql-connector-java-8.0.28.jar",
+        "c:\\Users\\manis\\OneDrive\\Documents\\New folder\\Java_Project\\Bank Management System\\jcalendar-tz-1.3.3-4.jar"
+    ]
+}
